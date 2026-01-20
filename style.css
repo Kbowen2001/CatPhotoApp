@@ -44,6 +44,50 @@ header h1{
   text-align: center;
 }
 
+.sleepingcat-card {
+  border: 2px solid #fcb354;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-width: 4px; 
+}
+
+.sleepingcat-card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.yawningcat-card {
+  border: 2px solid #fcb354;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-width: 4px; 
+}
+
+.yawningcat-card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.cuddlingcat-card {
+  border: 2px solid #fcb354;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-width: 4px; 
+}
+
+.cuddlingcat-card img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+
+
 /*end cards*/
 
 /*text section*/
