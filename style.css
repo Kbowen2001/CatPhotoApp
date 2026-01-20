@@ -175,15 +175,19 @@ header h1{
 .container div.header {
   grid-area: header;
   text-align: center;
+  color: #fcff5f;
 }
 .container div.menu {
   grid-area: menu;
+   color: #fcff5f;
 }
 .container div.content {
   grid-area: content;
+   color: #fcff5f;
 }
 .container div.footer {
   grid-area: footer;
-  text-align: center;  
+  text-align: center;
+   color: #fcff5f;  
 }
 /*grid end*/
