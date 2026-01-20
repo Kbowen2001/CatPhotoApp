@@ -180,10 +180,12 @@ header h1{
 .container div.menu {
   grid-area: menu;
    color: #fcff5f;
+    text-align: center;
 }
 .container div.content {
   grid-area: content;
    color: #fcff5f;
+    text-align: center;
 }
 .container div.footer {
   grid-area: footer;
