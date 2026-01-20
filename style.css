@@ -54,7 +54,7 @@ header h1{
   padding: 20px;
   font-family: 'Courier New', Courier, monospace
   line-height: 1.6;
-  color: #c06d00;
+  color:#fcff5f;
   font-size:30px
 }
 
@@ -73,7 +73,7 @@ header h1{
 }
 .indoortext {
   font-weight: bold;
-  color: #f08080;
+  color: #fcff5f;
   text-align: center;
   font-size: 20px;
 }
@@ -87,7 +87,7 @@ header h1{
 
 .personalitytext {
   font-weight: bold;
-  color: #f08080;
+  color: #fcff5f;
   text-align: center;
   font-size: 20px;
 }
