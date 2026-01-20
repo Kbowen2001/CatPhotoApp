@@ -1,3 +1,6 @@
-h2{
-    color: #34b68f;
+header{
+  position: sticky;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
