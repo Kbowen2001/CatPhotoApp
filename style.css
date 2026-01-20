@@ -71,4 +71,19 @@ header h1{
   color: #f08080;
   text-align: center;
 }
+
+.personality {
+  border: 2px solid #fcb354;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-width: 4px; 
+}
+
+.personalitytext {
+  font-weight: bold;
+  color: #f08080;
+  text-align: center;
+}
+
+
 /*cat form*/
