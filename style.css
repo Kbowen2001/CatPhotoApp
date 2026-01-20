@@ -155,3 +155,35 @@ header h1{
 
 
 /*end link styles*/
+
+/*grid*/
+.container {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "menu content"
+    "footer footer";
+  grid-template-columns: 1fr 3fr;
+  gap: 3px;
+  background-color: #fcff5f;
+  padding: 5px;
+}
+.container div {
+  background-color: #ff4314;
+  padding: 10px;
+}
+.container div.header {
+  grid-area: header;
+  text-align: center;
+}
+.container div.menu {
+  grid-area: menu;
+}
+.container div.content {
+  grid-area: content;
+}
+.container div.footer {
+  grid-area: footer;
+  text-align: center;  
+}
+/*grid end*/
