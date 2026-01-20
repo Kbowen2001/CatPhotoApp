@@ -1,6 +1,26 @@
+/*header styles*/
+
 header{
   position: sticky;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+header h1{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  white-space: nowrap;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  letter-spacing: 0.15em;
+  -webkit-text-stroke-width: .2px;
+  -webkit-text-stroke-color: rgb(255, 255, 255);
+  background-color: pink;
+  padding: 1rem;
+  margin: 0;
+  font-size: 60px;
+}
+
+/*end header styles*/
