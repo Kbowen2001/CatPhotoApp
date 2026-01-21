@@ -177,6 +177,10 @@ header h1{
   text-align: center;
   color: #fcff5f;
 }
+.container div.tablep {
+  color: #e67a00;
+    text-align: center;
+}
 .container div.menu {
   grid-area: menu;
    color: #fcff5f;
